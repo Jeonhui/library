@@ -1,0 +1,50 @@
+/* dropDown Container */
+.dropDown {
+    /* 위치 지정 */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /* 설정 지정 */
+    background-color: dimgray;
+}
+
+/* dropDown Title */
+.dropDownTitle {
+    /* 글씨 지정 */
+    font-size: 1rem;
+
+    /* 여백 지정 */
+    margin: 2px;
+    padding: 5px;
+
+    /* 기타 지정 */
+    background-color: lightgray;
+}
+
+/* dropDown Menu (Ol) */
+.dropDownMenu {
+    /* 위치 설정 */
+    position: absolute;
+
+    /* text 정렬 설정 */
+    text-align: left;
+
+    /* 리스트 스타일 설정 */
+    list-style: none;
+
+    /* 기타 지정 */
+    background-color: lightgray;
+
+    /* 설정 X*/
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: block;
+}
+.dropDownMenu li{
+    /* 여백 설정 */
+    margin: 2px;
+    padding: 5px;
+}
