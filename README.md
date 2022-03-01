@@ -10,6 +10,6 @@
 
 
 ## Guide
-**IOS**
-**Android**
-**React**
+**IOS**  
+**Android**  
+**React**  
