@@ -1,14 +1,15 @@
 # Personal library (Ios, Android, React)
 
 ## snippets
-IOS
+**IOS**
 
-Android
+**Android**
 
-**React
+**React**
 -dropdown
 
 
-##Guide
-IOS
-Android
+## Guide
+**IOS**
+**Android**
+**React**
