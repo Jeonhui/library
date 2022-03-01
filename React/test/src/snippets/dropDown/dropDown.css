@@ -6,7 +6,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
 
-    /* 설정 지정 */
+    /* 기타 지정 */
     background-color: dimgray;
 }
 
@@ -43,6 +43,8 @@
     width: 100%;
     display: block;
 }
+
+/* dropDown Menu (li) */
 .dropDownMenu li{
     /* 여백 설정 */
     margin: 2px;
